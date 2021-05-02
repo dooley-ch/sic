@@ -1,0 +1,1007 @@
+Industry Group|SIC|Description
+11|111|Wheat
+11|112|Rice
+11|115|Corn
+11|116|Soybeans
+11|119|Cash Grains, Not Elsewhere Classified
+13|131|Cotton
+13|132|Tobacco
+13|133|Sugarcane and Sugar Beets
+13|134|Irish Potatoes
+13|139|Field Crops, Except Cash Grains, Not Elsewhere Classified
+16|161|Vegetables and Melons
+17|171|Berry Crops
+17|172|Grapes
+17|173|Tree Nuts
+17|174|Citrus Fruits
+17|175|Deciduous Tree Fruits
+17|179|Fruits and Tree Nuts, Not Elsewhere Classified
+18|181|Ornamental Floriculture and Nursery Products
+18|182|Food Crops Grown Under Cover
+19|191|General Farms, Primarily Crop
+21|211|Beef Cattle Feedlots
+21|212|Beef Cattle, Except Feedlots
+21|213|Hogs
+21|214|Sheep and Goats
+21|219|General Livestock, Except Dairy and Poultry
+24|241|Dairy Farms
+25|251|Broiler, Fryer, and Roaster Chickens
+25|252|Chicken Eggs
+25|253|Turkeys and Turkey Eggs
+25|254|Poultry Hatcheries
+25|259|Poultry and Eggs, Not Elsewhere Classified
+27|271|Fur-Bearing Animals and Rabbits
+27|272|Horses and Other Equines
+27|273|Animal Aquaculture
+27|279|Animal Specialties, Not Elsewhere Classified
+29|291|General Farms, Primarily Livestock and Animal Specialties
+71|711|Soil Preparation Services
+72|721|Crop Planting, Cultivating, and Protecting
+72|722|Crop Harvesting, Primarily by Machine
+72|723|Crop Preparation Services for Market, Except Cotton Ginning
+72|724|Cotton Ginning
+74|741|Veterinary Services for Livestock
+74|742|Veterinary Services for Animal Specialties
+75|751|Livestock Services, Except Veterinary
+75|752|Animal Specialty Services, Except Veterinary
+76|761|Farm Labor Contractors and Crew Leaders
+76|762|Farm Management Services
+78|781|Landscape Counseling and Planning
+78|782|Lawn and Garden Services
+78|783|Ornamental Shrub and Tree Services
+81|811|Timber Tracts
+83|831|Forest Nurseries and Gathering of Forest Products
+85|851|Forestry Services
+91|912|Finfish
+91|913|Shellfish
+91|919|Miscellaneous Marine Products
+92|921|Fish Hatcheries and Preserves
+97|971|Hunting and Trapping, and Game Propagation
+101|1011|Iron Ores
+102|1021|Copper Ores
+103|1031|Lead and Zinc Ores
+104|1041|Gold Ores
+104|1044|Silver Ores
+106|1061|Ferroalloy Ores, Except Vanadium
+108|1081|Metal Mining Services
+109|1094|Uranium-Radium-Vanadium Ores
+109|1099|Miscellaneous Metal Ores, Not Elsewhere Classified
+122|1221|Bituminous Coal and Lignite Surface Mining
+122|1222|Bituminous Coal Underground Mining
+123|1231|Anthracite Mining
+124|1241|Coal Mining Services
+131|1311|Crude Petroleum and Natural Gas
+132|1321|Natural Gas Liquids
+138|1381|Drilling Oil and Gas Wells
+138|1382|Oil and Gas Field Exploration Services
+138|1389|Oil and Gas Field Services, Not Elsewhere Classified
+141|1411|Dimension Stone
+142|1422|Crushed and Broken Limestone
+142|1423|Crushed and Broken Granite
+142|1429|Crushed and Broken Stone, Not Elsewhere Classified
+144|1442|Construction Sand and Gravel
+144|1446|Industrial Sand
+145|1455|Kaolin and Ball Clay
+145|1459|Clay, Ceramic, and Refractory Minerals, Not Elsewhere Classified
+147|1474|Potash, Soda, and Borate Minerals
+147|1475|Phosphate Rock
+147|1479|Chemical and Fertilizer Mineral Mining, Not Elsewhere Classified
+148|1481|Nonmetallic Minerals Services, Except Fuels
+149|1499|Miscellaneous Nonmetallic Minerals, Except Fuels
+152|1521|General Contractors-Single-Family Houses
+152|1522|General Contractors-Residential Buildings, Other Than Single-Family
+153|1531|Operative Builders
+154|1541|General Contractors-Industrial Buildings and Warehouses
+154|1542|General Contractors-Nonresidential Buildings, Other than Industrial Buildings and Warehouses
+161|1611|Highway and Street Construction, Except Elevated Highways
+162|1622|Bridge, Tunnel, and Elevated Highway Construction
+162|1623|Water, Sewer, Pipeline, and Communications and Power Line Construction
+162|1629|Heavy Construction, Not Elsewhere Classified
+171|1711|Plumbing, Heating and Air-Conditioning
+172|1721|Painting and Paper Hanging
+173|1731|Electrical Work
+174|1741|Masonry, Stone Setting, and Other Stone Work
+174|1742|Plastering, Drywall, Acoustical, and Insulation Work
+174|1743|Terrazzo, Tile, Marble, and Mosaic Work
+175|1751|Carpentry Work
+175|1752|Floor Laying and Other Floor Work, Not Elsewhere Classified
+176|1761|Roofing, Siding, and Sheet Metal Work
+177|1771|Concrete Work
+178|1781|Water Well Drilling
+179|1791|Structural Steel Erection
+179|1793|Glass and Glazing Work
+179|1794|Excavation Work
+179|1795|Wrecking and Demolition Work
+179|1796|Installation or Erection of Building Equipment, Not Elsewhere
+179|1799|Special Trade Contractors, Not Elsewhere Classified
+201|2011|Meat Packing Plants
+201|2013|Sausages and Other Prepared Meat Products
+201|2015|Poultry Slaughtering and Processing
+202|2021|Creamery Butter
+202|2022|Natural, Processed, and Imitation Cheese
+202|2023|Dry, Condensed, and Evaporated Dairy Products
+202|2024|Ice Cream and Frozen Desserts
+202|2026|Fluid Milk
+203|2032|Canned Specialties
+203|2033|Canned Fruits, Vegetables, Preserves, Jams, and Jellies
+203|2034|Dried and Dehydrated Fruits, Vegetables, and Soup Mixes
+203|2035|Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings
+203|2037|Frozen Fruits, Fruit Juices, and Vegetables
+203|2038|Frozen Specialties, Not Elsewhere Classified
+204|2041|Flour and Other Grain Mill Products
+204|2043|Cereal Breakfast Foods
+204|2044|Rice Milling
+204|2045|Prepared Flour Mixes and Doughs
+204|2046|Wet Corn Milling
+204|2047|Dog and Cat Food
+204|2048|Prepared Feed and Feed Ingredients for Animals and Fowls, Except Dogs and Cats
+205|2051|Bread and Other Bakery Products, Except Cookies and Crackers
+205|2052|Cookies and Crackers
+205|2053|Frozen Bakery Products, Except Bread
+206|2061|Cane Sugar, Except Refining
+206|2062|Cane Sugar Refining
+206|2063|Beet Sugar
+206|2064|Candy and Other Confectionery Products
+206|2066|Chocolate and Cocoa Products
+206|2067|Chewing Gum
+206|2068|Salted and Roasted Nuts and Seeds
+207|2074|Cottonseed Oil Mills
+207|2075|Soybean Oil Mills
+207|2076|Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean
+207|2077|Animal and Marine Fats and Oils
+207|2079|Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, Not Elsewhere Classified
+208|2082|Malt Beverages
+208|2083|Malt
+208|2084|Wines, Brandy, and Brandy Spirits
+208|2085|Distilled and Blended Liquors
+208|2086|Bottled and Canned Soft Drinks and Carbonated Waters
+208|2087|Flavoring Extracts and Flavoring Syrups, Not Elsewhere Classified
+209|2091|Canned and Cured Fish and Seafoods
+209|2092|Prepared Fresh or Frozen Fish and Seafoods
+209|2095|Roasted Coffee
+209|2096|Potato Chips, Corn Chips, and Similar Snacks
+209|2097|Manufactured Ice
+209|2098|Macaroni, Spaghetti, Vermicelli, and Noodles
+209|2099|Food Preparations, Not Elsewhere Classified
+211|2111|Cigarettes
+212|2121|Cigars
+213|2131|Chewing and Smoking Tobacco and Snuff
+214|2141|Tobacco Stemming and Redrying
+221|2211|Broadwoven Fabric Mills, Cotton
+222|2221|Broadwoven Fabric Mills, Manmade Fiber and Silk
+223|2231|Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing)
+224|2241|Narrow Fabric and Other Smallware Mills: Cotton, Wool, Silk, and Manmade Fiber
+225|2251|Women's Full-Length and Knee-Length Hosiery, Except Socks
+225|2252|Hosiery, Not Elsewhere Classified
+225|2253|Knit Outerwear Mills
+225|2254|Knit Underwear and Nightwear Mills
+225|2257|Weft Knit Fabric Mills
+225|2258|Lace and Warp Knit Fabric Mills
+225|2259|Knitting Mills, Not Elsewhere Classified
+226|2261|Finishers of Broadwoven Fabrics of Cotton
+226|2262|Finishers of Broadwoven Fabrics of Manmade Fiber and Silk
+226|2269|Finishers of Textiles, Not elsewhere Classified
+227|2273|Carpets and Rugs
+228|2281|Yarn Spinning Mills
+228|2282|Yarn Texturizing, Throwing, Twisting, and Winding Mills
+228|2284|Thread Mills
+229|2295|Coated Fabrics, Not Rubberized
+229|2296|Tire Cord and Fabrics
+229|2297|Non-woven Fabrics
+229|2298|Cordage and Twine
+229|2299|Textile goods, Not Elsewhere Classified
+231|2311|Men's and Boys' Suits, Coats, and Overcoats
+232|2321|Men's and Boys' Shirts, Except Work Shirts
+232|2322|Men's and Boys' Underwear and Nightwear
+232|2323|Men's and Boys' Neckwear
+232|2325|Men's and Boys' Separate Trousers and Slacks
+232|2326|Men's and Boys' Work Clothing
+232|2329|Men's and Boys' Clothing, Not Elsewhere Classified
+233|2331|Women's, Misses', and Juniors' Blouses and Shirts
+233|2335|Women's, Misses', and Juniors' Dresses
+233|2337|Women's, Misses', and Juniors' Suits, Skirts, and Coats
+233|2339|Women's, Misses', and Juniors' Outerwear, Not Elsewhere Classified
+234|2341|Women's, Misses', Children's, and Infants' Underwear and Nightwear
+234|2342|Brassieres, Girdles, and Allied Garments
+235|2353|Hats, Caps, and Millinery
+236|2361|Girls', Children's, and Infants' Dresses, Blouses, and Shirts
+236|2369|Girls', Children's, and Infants' Outerwear, Not Elsewhere Classified
+237|2371|Fur Goods
+238|2381|Dress and Work Gloves, Except Knit and All-Leather
+238|2384|Robes and Dressing Gowns
+238|2385|Waterproof Outerwear
+238|2386|Leather and Sheep-Lined Clothing
+238|2387|Apparel belts
+238|2389|Apparel and Accessories, Not Elsewhere Classified
+239|2391|Curtains and Draperies
+239|2392|House furnishing, Except Curtains and Draperies
+239|2393|Textile Bags
+239|2394|Canvas and Related Products
+239|2395|Pleating, Decorative and Novelty Stitching, and Tucking for the Trade
+239|2396|Automotive Trimmings, Apparel Findings, and Related Products
+239|2397|Schiffli Machine Embroideries
+239|2399|Fabricated Textile Products, Not Elsewhere Classified
+241|2411|Logging
+242|2421|Sawmills and Planing Mills, General
+242|2426|Hardwood Dimension and Flooring Mills
+242|2429|Special Product Sawmills, Not Elsewhere Classified
+243|2431|Millwork
+243|2434|Wood Kitchen Cabinets
+243|2435|Hardwood Veneer and Plywood
+243|2436|Softwood Veneer and Plywood
+243|2439|Structural Wood Members, Not Elsewhere Classified
+244|2441|Nailed and Lock Corner Wood Boxes and Shook
+244|2448|Wood Pallets and Skids
+244|2449|Wood Containers, Not Elsewhere Classified
+245|2451|Mobile Homes
+245|2452|Prefabricated Wood Buildings and Components
+249|2491|Wood Preserving
+249|2493|Reconstituted Wood Products
+249|2499|Wood Products, Not Elsewhere Classified
+251|2511|Wood Household Furniture, Except Upholstered
+251|2512|Wood Household Furniture, Upholstered
+251|2514|Metal Household Furniture
+251|2515|Mattresses, Foundations, and Convertible Beds
+251|2517|Wood Television, Radio, Phonograph, and Sewing Machine Cabinets
+251|2519|Household Furniture, Not Elsewhere Classified
+252|2521|Wood Office Furniture
+252|2522|Office Furniture, Except Wood
+253|2531|Public Building and Related Furniture
+254|2541|Wood Office and Store Fixtures, Partitions, Shelving, and Lockers
+254|2542|Office and Store Fixtures, Partitions, Shelving, and Lockers, Except Wood
+259|2591|Drapery Hardware and Window Blinds and Shades
+259|2599|Furniture and Fixtures, Not Elsewhere Classified
+261|2611|Pulp Mills
+262|2621|Paper Mills
+263|2631|Paperboard Mills
+265|2652|Setup Paperboard Boxes
+265|2653|Corrugated and Solid Fiber Boxes
+265|2655|Fiber Cans, Tubes, Drums, and Similar Products
+265|2656|Sanitary Food Containers, Except Folding
+265|2657|Folding Paperboard Boxes, Including Sanitary
+267|2671|Packaging Paper and Plastics Film, Coated and Laminated
+267|2672|Coated and Laminated Paper, Not Elsewhere Classified
+267|2673|Plastics, Foil, and Coated Paper Bags
+267|2674|Uncoated Paper and Multiwall Bags
+267|2675|Die-Cut Paper and Paperboard and Cardboard
+267|2676|Sanitary Paper Products
+267|2677|Envelopes
+267|2678|Stationery, Tablets, and Related Products
+267|2679|Converted Paper and Paperboard Products, Not Elsewhere Classified
+271|2711|Newspapers: Publishing, or Publishing and Printing
+272|2721|Periodicals: Publishing, or Publishing and Printing
+273|2731|Books: Publishing, or Publishing and Printing
+273|2732|Book Printing
+274|2741|Miscellaneous Publishing
+275|2752|Commercial Printing, Lithographic
+275|2754|Commercial Printing, Gravure
+275|2759|Commercial Printing, Not Elsewhere Classified
+276|2761|Manifold Business Forms
+277|2771|Greeting Cards
+278|2782|Blankbooks, Looseleaf Binders and Devices
+278|2789|Bookbinding and Related Work
+279|2791|Typesetting
+279|2796|Platemaking and Related Services
+281|2812|Alkalies and Chlorine
+281|2813|Industrial Gases
+281|2816|Inorganic Pigments
+281|2819|Industrial Inorganic Chemicals, Not Elsewhere Classified
+282|2821|Plastics Materials, Synthetic Resins, and Nonvulcanizable Elastomers
+282|2822|Synthetic Rubber (Vulcanizable Elastomers)
+282|2823|Cellulosic Manmade Fibers
+282|2824|Manmade Organic Fibers, Except Cellulosic
+283|2833|Medicinal Chemicals and Botanical Products
+283|2834|Pharmaceutical Preparations
+283|2835|In Vitro and In Vivo Diagnostic Substances
+283|2836|Biological Products, Except Diagnostic Substances
+284|2841|Soap and Other Detergents, Except Specialty Cleaners
+284|2842|Specialty Cleaning, Polishing, and Sanitation Preparations
+284|2843|Surface Active Agents, Finishing Agents, Sulfonated Oils, and Assistants
+284|2844|Perfumes, Cosmetics, and Other Toilet Preparations
+285|2851|Paints, Varnishes, Lacquers, Enamels, and Allied Products
+286|2861|Gum and Wood Chemicals
+286|2865|Cyclic Organic Crudes and Intermediates, and Organic Dyes and Pigments
+286|2869|Industrial Organic Chemicals, Not Elsewhere Classified
+287|2873|Nitrogenous Fertilizers
+287|2874|Phosphatic Fertilizers
+287|2875|Fertilizers, Mixing Only
+287|2879|Pesticides and Agricultural Chemicals, Not Elsewhere Classified
+289|2891|Adhesives and Sealants
+289|2892|Explosives
+289|2893|Printing Ink
+289|2895|Carbon Black
+289|2899|Chemicals and Chemical Preparations, Not Elsewhere Classified
+291|2911|Petroleum Refining
+295|2951|Asphalt Paving Mixtures and Blocks
+295|2952|Asphalt Felts and Coatings
+299|2992|Lubricating Oils and Greases
+299|2999|Products of Petroleum and Coal, Not Elsewhere Classified
+301|3011|Tires and Inner Tubes
+302|3021|Rubber and Plastics Footwear
+305|3052|Rubber and Plastics Hose and Belting
+305|3053|Gaskets, Packing, and Sealing Devices
+306|3061|Molded, Extruded, and Lathe-Cut Mechanical Rubber Goods
+306|3069|Fabricated Rubber Products, Not Elsewhere Classified
+308|3081|Unsupported Plastics Film and Sheet
+308|3082|Unsupported Plastics Profile Shapes
+308|3083|Laminated Plastics Plate, Sheet, and Profile Shapes
+308|3084|Plastics Pipe
+308|3085|Plastics Bottles
+308|3086|Plastics Foam Products
+308|3087|Custom Compounding of Purchased Plastics Resins
+308|3088|Plastics Plumbing Fixtures
+308|3089|Plastics Products, Not Elsewhere Classified
+311|3111|Leather Tanning and Finishing
+313|3131|Boot and Shoe Cut Stock and Findings
+314|3142|House Slippers
+314|3143|Men's Footwear, Except Athletic
+314|3144|Women's Footwear, Except Athletic
+314|3149|Footwear, Except Rubber, Not Elsewhere Classified
+315|3151|Leather Gloves and Mittens
+316|3161|Luggage
+317|3171|Women's Handbags and Purses
+317|3172|Personal Leather Goods, Except Women's Handbags and Purses
+319|3199|Leather Goods, Not Elsewhere Classified
+321|3211|Flat Glass
+322|3221|Glass Containers
+322|3229|Pressed and Blown Glass and Glassware, Not Elsewhere Classified
+323|3231|Glass Products, Made of Purchased Glass
+324|3241|Cement, Hydraulic
+325|3251|Brick and Structural Clay Tile
+325|3253|Ceramic Wall and Floor Tile
+325|3255|Clay Refractories
+325|3259|Structural Clay Products, Not Elsewhere Classified
+326|3261|Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories
+326|3262|Vitreous China Table and Kitchen Articles
+326|3263|Fine Earthenware (Whiteware) Table and Kitchen Articles
+326|3264|Porcelain Electrical Supplies
+326|3269|Pottery Products, Not Elsewhere Classified
+327|3271|Concrete Block and Brick
+327|3272|Concrete Products, Except Block and Brick
+327|3273|Ready-Mixed Concrete
+327|3274|Lime
+327|3275|Gypsum Products
+328|3281|Cut Stone and Stone Products
+329|3291|Abrasive Products
+329|3292|Asbestos Products
+329|3295|Minerals and Earths, Ground or Otherwise Treated
+329|3296|Mineral Wool
+329|3297|Nonclay Refractories
+329|3299|Nonmetallic Mineral Products, Not Elsewhere Classified
+331|3312|Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills
+331|3313|Electrometallurgical Products, Except Steel
+331|3315|Steel Wiredrawing and Steel Nails and Spikes
+331|3316|Cold-Rolled Steel Sheet, Strip, and Bars
+331|3317|Steel Pipe and Tubes
+332|3321|Gray and Ductile Iron Foundries
+332|3322|Malleable Iron Foundries
+332|3324|Steel Investment Foundries
+332|3325|Steel Foundries, Not Elsewhere Classified
+333|3331|Primary Smelting and Refining of Copper
+333|3334|Primary Production of Aluminum
+333|3339|Primary Smelting and Refining of Nonferrous Metals, Except Copper and Aluminum
+334|3341|Secondary Smelting and Refining of Nonferrous Metals
+335|3351|Rolling, Drawing, and Extruding Of Copper
+335|3353|Aluminum Sheet, Plate, and Foil
+335|3354|Aluminum Extruded Products
+335|3355|Aluminum Rolling and Drawing, Not Elsewhere Classified
+335|3356|Rolling, Drawing, and Extruding of Nonferrous Metals, Except Copper and Aluminum
+335|3357|Drawing and Insulating of Nonferrous Wire
+336|3363|Aluminum Die-Castings
+336|3364|Nonferrous Die-Castings, Except Aluminum
+336|3365|Aluminum Foundries
+336|3366|Copper Foundries
+336|3369|Nonferrous Foundries, Except Aluminum and Copper
+339|3398|Metal Heat Treating
+339|3399|Primary Metal Products, Not Elsewhere Classified
+341|3411|Metal Cans
+341|3412|Metal Shipping Barrels, Drums, Kegs, and Pails
+342|3421|Cutlery
+342|3423|Hand and Edge Tools, Except Machine Tools and Handsaws
+342|3425|Saw Blades and Handsaws
+342|3429|Hardware, Not Elsewhere Classified
+343|3431|Enameled Iron and Metal Sanitary Ware
+343|3432|Plumbing Fixture Fittings and Trim
+343|3433|Heating Equipment, Except Electric and Warm Air Furnaces
+344|3441|Fabricated Structural Metal
+344|3442|Metal Doors, Sash, Frames, Molding, and Trim Manufacturing
+344|3443|Fabricated Plate Work (Boiler Shops)
+344|3444|Sheet Metal Work
+344|3446|Architectural and Ornamental Metal Work
+344|3448|Prefabricated Metal Buildings and Components
+344|3449|Miscellaneous Structural Metal Work
+345|3451|Screw Machine Products
+345|3452|Bolts, Nuts, Screws, Rivets, and Washers
+346|3462|Iron and Steel Forgings
+346|3463|Nonferrous Forgings
+346|3465|Automotive Stampings
+346|3466|Crowns and Closures
+346|3469|Metal Stampings, Not Elsewhere Classified
+347|3471|Electroplating, Plating, Polishing, Anodizing, and Coloring
+347|3479|Coating, Engraving, and Allied Services, Not Elsewhere Classified
+348|3482|Small Arms Ammunition
+348|3483|Ammunition, Except for Small Arms
+348|3484|Small Arms
+348|3489|Ordnance and Accessories, Not Elsewhere Classified
+349|3491|Industrial Valves
+349|3492|Fluid Power Valves and Hose Fittings
+349|3493|Steel Springs, Except Wire
+349|3494|Valves and Pipe Fittings, Not Elsewhere Classified
+349|3495|Wire Springs
+349|3496|Miscellaneous Fabricated Wire Products
+349|3497|Metal Foil and Leaf
+349|3498|Fabricated Pipe and Pipe Fittings
+349|3499|Fabricated Metal Products, Not Elsewhere Classified
+351|3511|Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Units
+351|3519|Internal Combustion Engines, Not Elsewhere Classified
+352|3523|Farm Machinery and Equipment
+352|3524|Lawn and Garden Tractors and Home Lawn and Garden Equipment
+353|3531|Construction Machinery and Equipment
+353|3532|Mining Machinery and Equipment, Except Oil and Gas Field Machinery and Equipment
+353|3533|Oil and Gas Field Machinery and Equipment
+353|3534|Elevators and Moving Stairways
+353|3535|Conveyors and Conveying Equipment
+353|3536|Overhead Traveling Cranes, Hoists, and Monorail Systems
+353|3537|Industrial Trucks, Tractors, Trailers, and Stackers
+354|3541|Machine Tools, Metal Cutting Types
+354|3542|Machine Tools, Metal Forming Types
+354|3543|Industrial Patterns
+354|3544|Special Dies and Tools, Die Sets, Jigs and Fixtures, and Industrial Molds
+354|3545|Cutting Tools, Machine Tool Accessories, and Machinists' Precision Measuring Devices
+354|3546|Power-Driven Handtools
+354|3547|Rolling Mill Machinery and Equipment
+354|3548|Electric and Gas Welding and Soldering Equipment
+354|3549|Metalworking Machinery, Not Elsewhere Classified
+355|3552|Textile Machinery
+355|3553|Woodworking Machinery
+355|3554|Paper Industries Machinery
+355|3555|Printing Trades Machinery and Equipment
+355|3556|Food Products Machinery
+355|3559|Special Industry Machinery, Not Elsewhere Classified
+356|3561|Pumps and Pumping Equipment
+356|3562|Ball and Roller Bearings
+356|3563|Air and Gas Compressors
+356|3564|Industrial and Commercial Fans and Blowers and Air Purification Equipment
+356|3565|Packaging Machinery
+356|3566|Speed Changers, Industrial High-Speed Drives, and Gears
+356|3567|Industrial Process Furnaces and Ovens
+356|3568|Mechanical Power Transmission Equipment, Not Elsewhere Classified
+356|3569|General Industrial Machinery and Equipment, Not Elsewhere
+357|3571|Electronic Computers
+357|3572|Computer Storage Devices
+357|3575|Computer Terminals
+357|3577|Computer Peripheral Equipment, Not Elsewhere Classified
+357|3578|Calculating and Accounting Machines, Except Electronic Computers
+357|3579|Office Machines, Not Elsewhere Classified
+358|3581|Automatic Vending Machines
+358|3582|Commercial Laundry, Drycleaning, and Pressing Machines
+358|3585|Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment
+358|3586|Measuring and Dispensing Pumps
+358|3589|Service Industry Machinery, Not Elsewhere Classified
+359|3592|Carburetors, Pistons, Piston Rings, and Valves
+359|3593|Fluid Power Cylinders and Actuators
+359|3594|Fluid Power Pumps and Motors
+359|3596|Scales and Balances, Except Laboratory
+359|3599|Industrial and Commercial Machinery and Equipment, Not Elsewhere Classified
+361|3612|Power, Distribution, and Specialty Transformers
+361|3613|Switchgear and Switchboard Apparatus
+362|3621|Motors and Generators
+362|3624|Carbon and Graphite Products
+362|3625|Relays and Industrial Controls
+362|3629|Electrical Industrial Apparatus, Not Elsewhere Classified
+363|3631|Household Cooking Equipment
+363|3632|Household Refrigerators and HOme and Farm Freezers
+363|3633|Household Laundry Equipment
+363|3634|Electric Housewares and Fans
+363|3635|Household Vacuum Cleaners
+363|3639|Household Appliances, Not Elsewhere Classified
+364|3641|Electric Lamp Bulbs and Tubes
+364|3643|Current-Carrying Wiring Devices
+364|3644|Noncurrent-Carrying Wiring Devices
+364|3645|Residential Electric Lighting Fixtures
+364|3646|Commercial, Industrial, and Institutional Electric Lighting Fixtures
+364|3647|Vehicular Lighting Equipment
+364|3648|Lighting Equipment, Not Elsewhere Classified
+365|3651|Household Audio and Video Equipment
+365|3652|Phonograph Records and Prerecorded Audio Tapes and Disks
+366|3661|Telephone and Telegraph Apparatus
+366|3663|Radio and Television Broadcasting and Communications Equipment
+366|3669|Communications Equipment, Not Elsewhere Classified
+367|3671|Electron Tubes
+367|3672|Printed Circuit Boards
+367|3674|Semiconductors and Related Devices
+367|3675|Electronic Capacitors
+367|3676|Electronic Resistors
+367|3677|Electronic Coils, Transformers, and Other Inductors
+367|3678|Electronic Connectors
+367|3679|Electronic Components, Not Elsewhere Classified
+369|3691|Storage Batteries
+369|3692|Primary Batteries, Dry and Wet
+369|3694|Electrical Equipment for Internal Combustion Engines
+369|3695|Magnetic And Optical Recording Media
+369|3699|Electrical Machinery, Equipment, and Supplies, Not Elsewhere
+371|3711|Motor Vehicles and Passenger Car Bodies
+371|3713|Truck and Bus Bodies
+371|3714|Motor Vehicle Parts and Accessories
+371|3715|Truck Trailers
+371|3716|Motor Homes
+372|3721|Aircraft
+372|3724|Aircraft Engines and Engine Parts
+372|3728|Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified
+373|3731|Ship Building and Repairing
+373|3732|Boat Building and Repairing
+374|3743|Railroad Equipment
+375|3751|Motorcycles, Bicycles, and Parts
+376|3761|Guided Missiles and Space Vehicles
+376|3764|Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts
+376|3769|Guided Missile Space Vehicle Parts and Auxiliary Equipment, Not Elsewhere Classified
+379|3792|Travel Trailers and Campers
+379|3795|Tanks and Tank Components
+379|3799|Transportation Equipment, Not Elsewhere Classified
+381|3812|Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments
+382|3821|Laboratory Apparatus and Furniture
+382|3822|Automatic Controls for Regulating Residential and Commercial Environments and Appliances
+382|3823|Industrial Instruments for Measurement, Display, and Control of Process Variables; and Related Products
+382|3824|Totalizing Fluid Meters and Counting Devices
+382|3825|Instruments for Measuring and Testing of Electricity and Electrical Signals
+382|3826|Laboratory Analytical Instruments
+382|3827|Optical Instruments and Lenses
+382|3829|Measuring and Controlling Devices, Not Elsewhere Classified
+384|3841|Surgical and Medical Instruments and Apparatus
+384|3842|Orthopedic, Prosthetic, and Surgical Appliances and Supplies
+384|3843|Dental Equipment and Supplies
+384|3844|X-Ray Apparatus and Tubes and Related Irradiation Apparatus
+384|3845|Electromedical and Electrotherapeutic Apparatus
+385|3851|Ophthalmic Goods
+386|3861|Photographic Equipment and Supplies
+387|3873|Watches, Clocks, Clockwork Operated Devices, and Parts
+391|3911|Jewelry, Precious Metal
+391|3914|Silverware, Plated Ware, and Stainless Steel Ware
+391|3915|Jewelers' Findings and Materials, and Lapidary Work
+393|3931|Musical Instruments
+394|3942|Dolls and Stuffed Toys
+394|3944|Games, Toys, and Children's Vehicles, Except Dolls and Bicycles
+394|3949|Sporting and Athletic Goods, Not Elsewhere Classified
+395|3951|Pens, Mechanical Pencils, and Parts
+395|3952|Lead Pencils, Crayons, and Artists' Materials
+395|3953|Marking Devices
+395|3955|Carbon Paper and Inked Ribbons
+396|3961|Costume Jewelry and Costume Novelties, Except Precious Metal
+396|3965|Fasteners, Buttons, Needles, and Pins
+399|3991|Brooms and Brushes
+399|3993|Signs and Advertising Specialties
+399|3995|Burial Caskets
+399|3996|Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, Not Elsewhere Classified
+399|3999|Manufacturing Industries, Not Elsewhere Classified
+401|4011|Railroads, Line-Haul Operating
+401|4013|Railroad Switching and Terminal Establishments
+411|4111|Local and Suburban Transit
+411|4119|Local Passenger Transportation, Not Elsewhere Classified
+412|4121|Taxicabs
+413|4131|Intercity and Rural Bus Transportation
+414|4141|Local Bus Charter Service
+414|4142|Bus Charter Service, Except Local
+415|4151|School Buses
+417|4173|Terminal and Service Facilities for Motor Vehicle Passenger Transportation
+421|4212|Local Trucking Without Storage
+421|4213|Trucking, Except Local
+421|4214|Local Trucking With Storage
+421|4215|Courier Services, Except by Air
+422|4221|Farm Product Warehousing and Storage
+422|4222|Refrigerated Warehousing and Storage
+422|4225|General Warehousing and Storage
+422|4226|Special Warehousing and Storage, Not Elsewhere Classified
+423|4231|Terminal and Joint Terminal Maintenance Facilities for Motor Freight Transportation
+431|4311|United States Postal Service
+441|4412|Deep Sea Foreign Transportation of Freight
+442|4424|Deep Sea Domestic Transportation of Freight
+443|4432|Freight Transportation on the Great Lakes-St. Lawrence Seaway
+444|4449|Water Transportation of Freight, Not Elsewhere Classified
+448|4481|Deep Sea Transportation of Passengers, Except by Ferry
+448|4482|Ferries
+448|4489|Water Transportation of Passengers, Not Elsewhere Classified
+449|4491|Marine Cargo Handling
+449|4492|Towing and Tugboat Services
+449|4493|Marinas
+449|4499|Water Transportation Services, Not Elsewhere Classified
+451|4512|Air Transportation, Scheduled
+451|4513|Air Courier Services
+452|4522|Air Transportation, Nonscheduled
+458|4581|Airports, Flying Fields, and Airport Terminal Services
+461|4612|Crude Petroleum Pipelines
+461|4613|Refined Petroleum Pipelines
+461|4619|Pipelines, Not Elsewhere Classified
+472|4724|Travel Agencies
+472|4725|Tour Operators
+472|4729|Arrangement of Passenger Transportation, Not Elsewhere Classified
+473|4731|Arrangement of Transportation of Freight and Cargo
+474|4741|Rental of Railroad Cars
+478|4783|Packing and Crating
+478|4785|Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation
+478|4789|Transportation Services, Not Elsewhere Classified
+481|4812|Radiotelephone Communications
+481|4813|Telephone Communications, Except Radiotelephone
+482|4822|Telegraph and Other Message Communications
+483|4832|Radio Broadcasting Stations
+483|4833|Television Broadcasting Stations
+484|4841|Cable and Other Pay Television Services
+489|4899|Communications Services, Not Elsewhere Classified
+491|4911|Electric Services
+492|4922|Natural Gas Transmission
+492|4923|Natural Gas Transmission and Distribution
+492|4924|Natural Gas Distribution
+492|4925|Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or
+493|4931|Electric and Other Services Combined
+493|4932|Gas and Other Services Combined
+493|4939|Combination Utilities, Not Elsewhere Classified
+494|4941|Water Supply
+495|4952|Sewerage Systems
+495|4953|Refuse Systems
+495|4959|Sanitary Services, Not Elsewhere Classified
+496|4961|Steam and Air-Conditioning Supply
+497|4971|Irrigation Systems
+501|5012|Automobiles and Other Motor Vehicles
+501|5013|Motor Vehicle Supplies and New Parts
+501|5014|Tires and Tubes
+501|5015|Motor Vehicle Parts, Used
+502|5021|Furniture
+502|5023|Home furnishings
+503|5031|Lumber, Plywood, Millwork, and Wood Panels
+503|5032|Brick, Stone, and Related Construction Materials
+503|5033|Roofing, Siding, and Insulation Materials
+503|5039|Construction Materials, Not Elsewhere Classified
+504|5043|Photographic Equipment and Supplies
+504|5044|Office Equipment
+504|5045|Computers and Computer Peripheral Equipment and Software
+504|5046|Commercial Equipment, Not Elsewhere Classified
+504|5047|Medical, Dental, and Hospital Equipment and Supplies
+504|5048|Ophthalmic Goods
+504|5049|Professional Equipment and Supplies, Not Elsewhere Classified
+505|5051|Metals Service Centers and Offices
+505|5052|Coal and Other Minerals and Ores
+506|5063|Electrical Apparatus and Equipment Wiring Supplies, and Construction Materials
+506|5064|Electrical Appliances, Television and Radio Sets
+506|5065|Electronic Parts and Equipment, Not Elsewhere Classified
+507|5072|Hardware
+507|5074|Plumbing and Heating Equipment and Supplies (Hydronics)
+507|5075|Warm Air Heating and Air-Conditioning Equipment and Supplies
+507|5078|Refrigeration Equipment and Supplies
+508|5082|Construction and Mining (Except Petroleum) Machinery and Equipment
+508|5083|Farm and Garden Machinery and Equipment
+508|5084|Industrial Machinery and Equipment
+508|5085|Industrial Supplies
+508|5087|Service Establishment Equipment and Supplies
+508|5088|Transportation Equipment and Supplies, Except Motor Vehicles
+509|5091|Sporting and Recreational Goods and Supplies
+509|5092|Toys and Hobby Goods and Supplies
+509|5093|Scrap and Waste Materials
+509|5094|Jewelry, Watches, Precious Stones, and Precious Metals
+509|5099|Durable Goods, Not Elsewhere Classified
+511|5111|Printing and Writing Paper
+511|5112|Stationery and Office Supplies
+511|5113|Industrial and Personal Service Paper
+512|5122|Drugs, Drug Proprietaries, and Druggists' Sundries
+513|5131|Piece Goods, Notions, and Other Dry Good
+513|5136|Men's and Boy's Clothing and Furnishings
+513|5137|Women's, Children's, and Infants' Clothing and Accessories
+513|5139|Footwear
+514|5141|Groceries, General Line
+514|5142|Packaged Frozen Foods
+514|5143|Dairy Products, Except Dried or Canned
+514|5144|Poultry and Poultry Products
+514|5145|Confectionery
+514|5146|Fish and Seafoods
+514|5147|Meats and Meat Products
+514|5148|Fresh Fruits and Vegetables
+514|5149|Groceries and Related Products, Not Elsewhere Classified
+515|5153|Grain and Field Beans
+515|5154|Livestock
+515|5159|Farm-Product Raw Materials, Not Elsewhere Classified
+516|5162|Plastics Materials and Basic Forms and Shapes
+516|5169|Chemicals and Allied Products, Not Elsewhere Classified
+517|5171|Petroleum Bulk stations and Terminals
+517|5172|Petroleum and Petroleum Products Wholesalers, Except Bulk Stations and Terminals
+518|5181|Beer and Ale
+518|5182|Wine and Distilled Alcoholic Beverages
+519|5191|Farm Supplies
+519|5192|Books, Periodicals, and Newspapers
+519|5193|Flowers, Nursery Stock, and Florists' Supplies
+519|5194|Tobacco and Tobacco Products
+519|5198|Paints, Varnishes, and Supplies
+519|5199|Nondurable Goods, Not Elsewhere Classified
+521|5211|Lumber and Other Building Materials Dealers
+523|5231|Paint, Glass, and Wallpaper Stores
+525|5251|Hardware Stores
+526|5261|Retail Nurseries, Lawn and Garden Supply Stores
+527|5271|Mobile Home Dealers
+531|5311|Department Stores
+533|5331|Variety Stores
+539|5399|Miscellaneous General Merchandise Stores
+541|5411|Grocery Stores
+542|5421|Meat and Fish (Seafood) Markets, Including Freezer Provisioners
+543|5431|Fruit and Vegetable Markets
+544|5441|Candy, Nut, and Confectionery Stores
+545|5451|Dairy Products Stores
+546|5461|Retail Bakeries
+549|5499|Miscellaneous Food Stores
+551|5511|Motor Vehicle Dealers (New and Used)
+552|5521|Motor Vehicle Dealers (Used Only)
+553|5531|Auto and Home Supply Stores
+554|5541|Gasoline Service Stations
+555|5551|Boat Dealers
+556|5561|Recreational Vehicle Dealers
+557|5571|Motorcycle Dealers
+559|5599|Automotive Dealers, Not Elsewhere Classified
+561|5611|Men's and Boys' Clothing and Accessory Stores
+562|5621|Women's Clothing Stores
+563|5632|Women's Accessory and Specialty Stores
+564|5641|Children's and Infants' Wear Stores
+565|5651|Family Clothing Stores
+566|5661|Shoe Stores
+569|5699|Miscellaneous Apparel and Accessory Stores
+571|5712|Furniture Stores
+571|5713|Floor Covering Stores
+571|5714|Drapery, Curtain, and Upholstery Stores
+571|5719|Miscellaneous home furnishings Stores
+572|5722|Household Appliance Stores
+573|5731|Radio, Television, and Consumer Electronics Stores
+573|5734|Computer and Computer Software Stores
+573|5735|Record and Prerecorded Tape Stores
+573|5736|Musical Instrument Stores
+581|5812|Eating Places
+581|5813|Drinking Places (alcoholic Beverages)
+591|5912|Drug Stores and Proprietary Stores
+592|5921|Liquor Stores
+593|5932|Used Merchandise Stores
+594|5941|Sporting Goods Stores and Bicycle Shops
+594|5942|Book Stores
+594|5943|Stationery Stores
+594|5944|Jewelry Stores
+594|5945|Hobby, Toy, and Game Shops
+594|5946|Camera and Photographic Supply Stores
+594|5947|Gift, Novelty, and Souvenir Shops
+594|5948|Luggage and Leather Goods Stores
+594|5949|Sewing, Needlework, and Piece Goods Stores
+596|5961|Catalog and Mail-Order Houses
+596|5962|Automatic Merchandising Machine Operators
+596|5963|Direct Selling Establishments
+598|5983|Fuel Oil Dealers
+598|5984|Liquefied Petroleum Gas (Bottled Gas) Dealers
+598|5989|Fuel Dealers, Not Elsewhere Classified
+599|5992|Florists
+599|5993|Tobacco Stores and Stands
+599|5994|News Dealers and Newsstands
+599|5995|Optical Goods Stores
+599|5999|Miscellaneous Retail Stores, Not Elsewhere Classified
+601|6011|Federal Reserve Banks
+601|6019|Central Reserve Depository Institutions, Not Elsewhere Classified
+602|6021|National Commercial Banks
+602|6022|State Commercial Banks
+602|6029|Commercial Banks, Not Elsewhere Classified
+603|6035|Savings Institutions, Federally Chartered
+603|6036|Savings Institutions, Not Federally Chartered
+606|6061|Credit Unions, Federally Chartered
+606|6062|Credit Unions, Not Federally Chartered
+608|6081|Branches and Agencies of Foreign Banks
+608|6082|Foreign Trade and International Banking Institutions
+609|6091|Non-deposit Trust Facilities,
+609|6099|Functions Related to Depository Banking, Not Elsewhere Classified
+611|6111|Federal and Federally-Sponsored Credit Agencies
+614|6141|Personal Credit Institutions
+615|6153|Short-Term Business Credit Institutions, Except Agricultural
+615|6159|Miscellaneous business Credit Institutions
+616|6162|Mortgage Bankers and Loan Correspondents
+616|6163|Loan Brokers
+621|6211|Security Brokers, Dealers, and Flotation Companies
+622|6221|Commodity Contracts Brokers and Dealers
+623|6231|Security and Commodity Exchanges
+628|6282|Investment Advice
+628|6289|Services Allied With the Exchange of Securities or Commodities, Not Elsewhere Classified
+631|6311|Life Insurance
+632|6321|Accident and Health Insurance
+632|6324|Hospital and Medical Service Plans
+633|6331|Fire, Marine, and Casualty Insurance
+635|6351|Surety Insurance
+636|6361|Title Insurance
+637|6371|Pension, Health, and Welfare Funds
+639|6399|Insurance Carriers, Not Elsewhere Classified
+641|6411|Insurance Agents, Brokers, and Service
+651|6512|Operators of Nonresidential Buildings
+651|6513|Operators of Apartment Buildings
+651|6514|Operators of Dwellings Other Than Apartment Buildings
+651|6515|Operators of Residential Mobile Home Sites
+651|6517|Lessors of Railroad Property
+651|6519|Lessors of Real Property, Not Elsewhere Classified
+653|6531|Real Estate Agents and Managers
+654|6541|Title Abstract Offices
+655|6552|Land Subdividers and Developers, Except Cemeteries
+655|6553|Cemetery Subdividers and Developers
+671|6712|Offices of Bank Holding Companies
+671|6719|Offices of Holding Companies, Not Elsewhere Classified
+672|6722|Management Investment Offices, Open-End
+672|6726|Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Offices
+673|6732|Educational, Religious, and Charitable Trusts
+673|6733|Trusts, Except Educational, Religious, and Charitable
+679|6792|Oil Royalty Traders
+679|6794|Patent Owners and Lessors
+679|6798|Real Estate Investment Trusts
+679|6799|Investors, Not Elsewhere Classified
+701|7011|Hotels and Motels
+702|7021|Rooming and Boarding Houses
+703|7032|Sporting and Recreational Camps
+703|7033|Recreational Vehicle Parks and Campsites
+704|7041|Organization Hotels and Lodging Houses, on Membership Basis
+721|7211|Power Laundries, Family and Commercial
+721|7212|Garment Pressing, and Agents for Laundries and Drycleaners
+721|7213|Linen Supply
+721|7215|Coin-Operated Laundries and Drycleaning
+721|7216|Drycleaning Plants, Except Rug Cleaning
+721|7217|Carpet and Upholstery Cleaning
+721|7218|Industrial Launderers
+721|7219|Laundry and Garment Services, Not Elsewhere Classified
+722|7221|Photographic Studios, Portrait
+723|7231|Beauty Shops
+724|7241|Barber Shops
+725|7251|Shoe Repair Shops and Shoeshine Parlors
+726|7261|Funeral Service and Crematories
+729|7291|Tax Return Preparation Services
+729|7299|Miscellaneous Personal Services, Not Elsewhere Classified
+731|7311|Advertising Agencies
+731|7312|Outdoor Advertising Services
+731|7313|Radio, Television, and Publishers' Advertising Representatives
+731|7319|Advertising, Not Elsewhere Classified
+732|7322|Adjustment and Collection Services
+732|7323|Credit Reporting Services
+733|7331|Direct Mail Advertising Services
+733|7334|Photocopying and Duplicating Services
+733|7335|Commercial Photography
+733|7336|Commercial Art and Graphic Design
+733|7338|Secretarial and Court Reporting Services
+734|7342|Disinfecting and Pest Control Services
+734|7349|Building Cleaning and Maintenance Services, Not Elsewhere
+735|7352|Medical Equipment Rental and Leasing
+735|7353|Heavy Construction Equipment Rental and Leasing
+735|7359|Equipment Rental and Leasing, Not Elsewhere Classified
+736|7361|Employment Agencies
+736|7363|Help Supply Services
+737|7371|Computer Programming Services
+737|7372|Prepackaged Software
+737|7373|Computer Integrated Systems Design
+737|7374|Computer Processing and Data Preparation and Processing Services
+737|7375|Information Retrieval Services
+737|7376|Computer Facilities Management Services
+737|7377|Computer Rental and Leasing
+737|7378|Computer Maintenance and Repair
+737|7379|Computer Related Services, Not Elsewhere Classified
+738|7381|Detective, Guard, and Armored Car Services
+738|7382|Security Systems Services
+738|7383|News Syndicates
+738|7384|Photofinishing Laboratories
+738|7389|Business Services, Not Elsewhere Classified
+751|7513|Truck Rental and Leasing, Without Drivers
+751|7514|Passenger Car Rental
+751|7515|Passenger Car Leasing
+751|7519|Utility Trailer and Recreational Vehicle Rental
+752|7521|Automobile Parking
+753|7532|Top, Body, and Upholstery Repair Shops and Paint Shops
+753|7533|Automotive Exhaust System Repair Shops
+753|7534|Tire Retreading and Repair Shops
+753|7536|Automotive Glass Replacement Shops
+753|7537|Automotive Transmission Repair Shops
+753|7538|General Automotive Repair Shops
+753|7539|Automotive Repair Shops, Not Elsewhere Classified
+754|7542|Carwashes
+754|7549|Automotive Services, Except Repair and Carwashes
+762|7622|Radio and Television Repair Shops
+762|7623|Refrigeration and Air-Conditioning Service and Repair Shops
+762|7629|Electrical and Electronic Repair Shops, Not Elsewhere Classified
+763|7631|Watch, Clock, and Jewelry Repair
+764|7641|Reupholstery and Furniture Repair
+769|7692|Welding Repair
+769|7694|Armature Rewinding Shops
+769|7699|Repair Shops and Related Services, Not Elsewhere Classified
+781|7812|Motion Picture and Video Tape Production
+781|7819|Services Allied to Motion Picture Production
+782|7822|Motion Picture and Video Tape Distribution
+782|7829|Services Allied to Motion Picture Distribution
+783|7832|Motion Picture Theaters, Except Drive-In
+783|7833|Drive-In Motion Picture Theaters
+784|7841|Video Tape Rental
+791|7911|Dance Studios, Schools, and Halls
+792|7922|Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services
+792|7929|Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups
+793|7933|Bowling Centers
+794|7941|Professional Sports Clubs and Promoters
+794|7948|Racing, Including Track Operation
+799|7991|Physical Fitness Facilities
+799|7992|Public Golf Courses
+799|7993|Coin-Operated Amusement Devices
+799|7996|Amusement Parks
+799|7997|Membership Sports and Recreation Clubs
+799|7999|Amusement and Recreation Services, Not Elsewhere Classified
+801|8011|Offices and Clinics of Doctors of Medicine
+802|8021|Offices and Clinics of Dentists
+803|8031|Offices and Clinics of Doctors of Osteopathy
+804|8041|Offices and Clinics of Chiropractors
+804|8042|Offices and Clinics of Optometrists
+804|8043|Offices and Clinics of Podiatrists
+804|8049|Offices and Clinics of Health Practitioners, Not Elsewhere Classified
+805|8051|Skilled Nursing Care Facilities
+805|8052|Intermediate Care Facilities
+805|8059|Nursing and Personal Care Facilities, Not Elsewhere Classified
+806|8062|General Medical and Surgical Hospitals
+806|8063|Psychiatric Hospitals
+806|8069|Specialty Hospitals, Except Psychiatric
+807|8071|Medical Laboratories
+807|8072|Dental Laboratories
+808|8082|Home Health Care Services
+809|8092|Kidney Dialysis Centers
+809|8093|Specialty Outpatient Facilities, Not Elsewhere Classified
+809|8099|Health and Allied Services, Not Elsewhere Classified
+811|8111|Legal Services
+821|8211|Elementary and Secondary Schools
+822|8221|Colleges, Universities, and Professional Schools
+822|8222|Junior Colleges and Technical Institutes
+823|8231|Libraries
+824|8243|Data Processing Schools
+824|8244|Business and Secretarial Schools
+824|8249|Vocational Schools, Not Elsewhere Classified
+829|8299|Schools and Educational Services, Not Elsewhere Classified
+832|8322|Individual and Family Social Services
+833|8331|Job Training and Vocational Rehabilitation Services
+835|8351|Child Day Care Services
+836|8361|Residential Care
+839|8399|Social Services, Not Elsewhere Classified
+841|8412|Museums and Art Galleries
+842|8422|Arboreta and Botanical or Zoological Gardens
+861|8611|Business Associations
+862|8621|Professional Membership Organizations
+863|8631|Labor Unions and Similar Labor Organizations
+864|8641|Civic, Social, and Fraternal Associations
+865|8651|Political Organizations
+866|8661|Religious Organizations
+869|8699|Membership Organizations, Not Elsewhere Classified
+871|8711|Engineering Services
+871|8712|Architectural Services
+871|8713|Surveying Services
+872|8721|Accounting, Auditing, and Bookkeeping Services
+873|8731|Commercial Physical and Biological Research
+873|8732|Commercial Economic, Sociological, and Educational Research
+873|8733|Noncommercial Research Organizations
+873|8734|Testing Laboratories
+874|8741|Management Services
+874|8742|Management Consulting Services
+874|8743|Public Relations Services
+874|8744|Facilities Support Management Services
+874|8748|Business Consulting Services, Not Elsewhere Classified
+881|8811|Private Households
+899|8999|Services, Not Elsewhere Classified
+911|9111|Executive Offices
+912|9121|Legislative Bodies
+913|9131|Executive and Legislative Offices Combined
+919|9199|General Government, Not Elsewhere Classified
+921|9211|Courts
+922|9221|Police Protection
+922|9222|Legal Counsel and Prosecution
+922|9223|Correctional Institutions
+922|9224|Fire Protection
+922|9229|Public Order and Safety, Not Elsewhere Classified
+931|9311|Public Finance, Taxation, and Monetary Policy
+941|9411|Administration of Educational Programs
+943|9431|Administration of Public Health Programs
+944|9441|Administration of Social, Human Resource and Income Maintenance Programs
+945|9451|Administration of Veterans' Affairs, Except Health and Insurance
+951|9511|Air and Water Resource and Solid Waste Management
+951|9512|Land, Mineral, Wildlife, and Forest Conservation
+953|9531|Administration of Housing Programs
+953|9532|Administration of Urban Planning and Community and Rural Development
+961|9611|Administration of General Economic Programs
+962|9621|Regulation and Administration of Transportation Programs
+963|9631|Regulation and Administration of Communications, Electric, Gas, and Other Utilities
+964|9641|Regulation of Agricultural Marketing and Commodities
+965|9651|Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors
+966|9661|Space and Research and Technology
+971|9711|National Security
+972|9721|International Affairs
+999|9999|Nonclassifiable Establishments
+287|2837|Pharmaceuticals: Generic

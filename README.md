@@ -1,5 +1,7 @@
 # Standard Industrial Classification
 
+![Industry](industry.jpg)
+
 The Standard Industrial Classification (SIC) is a system for classifying industries by a four-digit code. Established in the United States in 1937, it is used by government agencies to classify industry areas. The SIC system is also used by agencies.
 
 In the United States, the SIC code has been replaced by the [North American Industry Classification System](https://en.wikipedia.org/wiki/North_American_Industry_Classification_System "North American Industry Classification System") (NAICS code), which was released in 1997.  However the SIC code is still widely.  

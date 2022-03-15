@@ -1,417 +1,418 @@
-Industry Group|Description
-11|Cash Grains
-13|Field Crops, Except Cash Grains
-16|Vegetables And Melons
-17|Fruits And Tree Nuts
-18|Horticultural Specialties
-19|General Farms, Primarily Crop
-21|Livestock, Except Dairy And Poultry
-24|Dairy Farms
-25|Poultry And Eggs
-27|Animal Specialties
-29|General Farms, Primarily Livestock And Animal
-71|Soil Preparation Services
-72|Crop Services
-74|Veterinary Services
-75|Animal Services, Except Veterinary
-76|Farm Labor And Management Services
-78|Landscape And Horticultural Services
-81|Timber Tracts
-83|Forest Nurseries And Gathering Of Forest
-85|Forestry Services
-91|Commercial Fishing
-92|Fish Hatcheries And Preserves
-97|Hunting And Trapping, And Game Propagation
-101|Iron Ores
-102|Copper Ores
-103|Lead And Zinc Ores
-104|Gold And Silver Ores
-106|Ferroalloy Ores, Except Vanadium
-108|Metal Mining Services
-109|Miscellaneous Metal Ores
-122|Bituminous Coal And Lignite Mining
-123|Anthracite Mining
-124|Coal Mining Services
-131|Crude Petroleum And Natural Gas
-132|Natural Gas Liquids
-138|Oil And Gas Field Services
-141|Dimension Stone
-142|Crushed And Broken Stone, Including Riprap
-144|Sand And Gravel
-145|Clay, Ceramic, And Refractory Minerals
-147|Chemical And Fertilizer Mineral Mining
-148|Nonmetallic Minerals Services, Except Fuels
-149|Miscellaneous Nonmetallic Minerals, Except
-152|General Building Contractors-residential
-153|Operative Builders
-154|General Building Contractors-nonresidential
-161|Highway And Street Construction, Except
-162|Heavy Construction, Except Highway And Street
-171|Plumbing, Heating And Air-conditioning
-172|Painting And Paper Hanging
-173|Electrical Work
-174|Masonry, Stonework, Tile Setting, And Plastering
-175|Carpentry And Floor Work
-176|Roofing, Siding, And Sheet Metal Work
-177|Concrete Work
-178|Water Well Drilling
-179|Miscellaneous Special Trade Contractors
-201|Meat Products
-202|Dairy Products
-203|Canned, Frozen, And Preserved Fruits, Vegetables, and Food Specialties
-204|Grain Mill Products
-205|Bakery Products
-206|Sugar And Confectionery Products
-207|Fats And Oils
-208|Beverages
-209|Miscellaneous Food Preparations And Kindred
-211|Cigarettes
-212|Cigars
-213|Chewing And Smoking Tobacco And Snuff
-214|Tobacco Stemming And Redrying
-221|Broadwoven Fabric Mills, Cotton
-222|Broadwoven Fabric Mills, Manmade Fiber And Silk
-223|Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)
-224|Narrow Fabric And Other Smallwares Mills, Cotton, Wool, Silk, and Manmade Fiber
-225|Knitting Mills
-226|Dyeing And Finishing Textiles, Except Wool Fabrics
-227|Carpets And Rugs
-228|Yarn And Thread Mills
-229|Miscellaneous Textile Goods
-231|Men's And Boys' Suits, Coats, And Overcoats
-232|Men's And Boys' Furnishings, Work Clothing, And Allied Garments
-233|Women's, Misses', And Juniors' Outerwear
-234|Women's, Misses', Children's, And Infants'
-235|Hats, Caps, And Millinery
-236|Girls', Children's, And Infants' Outerwear
-237|Fur Goods
-238|Miscellaneous Apparel And Accessories
-239|Miscellaneous Fabricated Textile Products
-241|Logging
-242|Sawmills And Planing Mills
-243|Millwork, Veneer, Plywood, And Structural Wood
-244|Wood Containers
-245|Wood Buildings And Mobile Homes
-249|Miscellaneous Wood Products
-251|Household Furniture
-252|Office Furniture
-253|Public Building And Related Furniture
-254|Partitions, Shelving, Lockers, And Office And
-259|Miscellaneous Furniture And Fixtures
-261|Pulp Mills
-262|Paper Mills
-263|Paperboard Mills
-265|Paperboard Containers And Boxes
-267|Converted Paper And Paperboard Products, Except
-271|Newspaper
-272|Periodical
-273|Books
-274|Miscellaneous Publishing
-275|Commercial Printing
-276|Manifold Business Forms
-277|Greeting Cards
-278|Blankbooks, Looseleaf Binders, And Bookbinding
-279|Service Industries For The Printing Trade
-281|Industrial Inorganic Chemicals
-282|Plastics Materials And Synthetic Resins, Synthetic
-283|Drugs
-284|Soap, Detergents, And Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations
-285|Paints, Varnishes, Lacquers, Enamels, And Allied
-286|Industrial Organic Chemicals
-287|Agricultural Chemicals
-289|Miscellaneous Chemical Products
-291|Petroleum Refining
-295|Asphalt Paving And Roofing Materials
-299|Miscellaneous Products Of Petroleum And Coal
-301|Tires And Inner Tubes
-302|Rubber And Plastics Footwear
-305|Gaskets, Packing, And Sealing Devices And Rubber
-306|Fabricated Rubber Products, Not Elsewhere
-308|Miscellaneous Plastics Products
-311|Leather Tanning And Finishing
-313|Boot And Shoe Cut Stock And Findings
-314|Footwear, Except Rubber
-315|Leather Gloves And Mittens
-316|Luggage
-317|Handbags And Other Personal Leather Goods
-319|Leather Goods, Not Elsewhere Classified
-321|Flat Glass
-322|Glass And Glassware, Pressed Or Blown
-323|Glass Products, Made Of Purchased Glass
-324|Cement, Hydraulic
-325|Structural Clay Products
-326|Pottery And Related Products
-327|Concrete, Gypsum, And Plaster Products
-328|Cut Stone And Stone Products
-329|Abrasive, Asbestos, And Miscellaneous
-331|Steel Works, Blast Furnaces, And Rolling And Finishing Mills
-332|Iron And Steel Foundries
-333|Primary Smelting And Refining Of Nonferrous
-334|Secondary Smelting And Refining Of Nonferrous
-335|Rolling, Drawing, And Extruding Of Nonferrous
-336|Nonferrous Foundries (castings)
-339|Miscellaneous Primary Metal Products
-341|Metal Cans And Shipping Containers
-342|Cutlery, Handtools, And General Hardware
-343|Heating Equipment, Except Electric And Warm Air;
-344|Fabricated Structural Metal Products
-345|Screw Machine Products, And Bolts, Nuts, Screws, Rivets, And Washers
-346|Metal Forgings And Stampings
-347|Coating, Engraving, And Allied Services
-348|Ordnance And Accessories, Except Vehicles And Guided Missiles
-349|Miscellaneous Fabricated Metal Products
-351|Engines And Turbines
-352|Farm And Garden Machinery And Equipment
-353|Construction, Mining, And Materials Handling
-354|Metalworking Machinery And Equipment
-355|Special Industry Machinery, Except Metalworking
-356|General Industrial Machinery And Equipment
-357|Computer And Office Equipment
-358|Refrigeration And Service Industry Machinery
-359|Miscellaneous Industrial And Commercial
-361|Electric Transmission And Distribution Equipment
-362|Electrical Industrial Apparatus
-363|Household Appliances
-364|Electric Lighting And Wiring Equipment
-365|Household Audio And Video Equipment, And Audio
-366|Communications Equipment
-367|Electronic Components And Accessories
-369|Miscellaneous Electrical Machinery, Equipment, and Supplies
-371|Motor Vehicles And Motor Vehicle Equipment
-372|Aircraft And Parts
-373|Ship And Boat Building And Repairing
-374|Railroad Equipment
-375|Motorcycles, Bicycles, And Parts
-376|Guided Missiles And Space Vehicles And Parts
-379|Miscellaneous Transportation Equipment
-381|Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instruments, and Equipment
-382|Laboratory Apparatus And Analytical, Optical, Measuring, and Controlling Instruments
-384|Surgical, Medical, And Dental Instruments And Supplies
-385|Ophthalmic Goods
-386|Photographic Equipment And Supplies
-387|Watches, Clocks, Clockwork Operated Devices, and Parts
-391|Jewelry, Silverware, And Plated Ware
-393|Musical Instruments
-394|Dolls, Toys, Games And Sporting And Athletic
-395|Pens, Pencils, And Other Artists Materials
-396|Costume Jewelry, Costume Novelties, Buttons, And Miscellaneous Notions, Ecept Precious Metal
-399|Miscellaneous Manufacturing Industries
-401|Railroads
-411|Local And Suburban Passenger Transportation
-412|Taxicabs
-413|Intercity And Rural Bus Transportation
-414|Bus Charter Service
-415|School Buses
-417|Terminal And Service Facilities For Motor Vehicle
-421|Trucking And Courier Services, Except Air
-422|Public Warehousing And Storage
-423|Terminal And Joint Terminal Maintenance
-431|United States Postal Service
-441|Deep Sea Foreign Transportation Of Freight
-442|Deep Sea Domestic Transportation Of Freight
-443|Freight Transportation On The Great Lakes-st.
-444|Water Transportation Of Freight, Not Elsewhere
-448|Water Transportation Of Passengers
-449|Services Incidental To Water Transportation
-451|Air Transportation, Scheduled, And Air Courier
-452|Air Transportation, Nonscheduled
-458|Airports, Flying Fields, And Airport Terminal
-461|Pipelines, Except Natural Gas
-472|Arrangement Of Passenger Transportation
-473|Arrangement Of Transportation Of Freight And Cargo
-474|Rental Of Railroad Cars
-478|Miscellaneous Services Incidental To Transportation
-481|Telephone Communications
-482|Telegraph And Other Message Communications
-483|Radio And Television Broadcasting Stations
-484|Cable And Other Pay Television Services
-489|Communications Services, Not Elsewhere
-491|Electric Services
-492|Gas Production And Distribution
-493|Combination Electric And Gas, And Other Utility
-494|Water Supply
-495|Sanitary Services
-496|Steam And Air-conditioning Supply
-497|Irrigation Systems
-501|Motor Vehicles And Motor Vehicle Parts And Supplies
-502|Furniture And Home Furnishings
-503|Lumber And Other Construction Materials
-504|Professional And Commercial Equipment And Supplies
-505|Metals And Minerals, Except Petroleum
-506|Electrical Goods
-507|Hardware, And Plumbing And Heating Equipment
-508|Machinery, Equipment, And Supplies
-509|Miscellaneous Durable Goods
-511|Paper And Paper Products
-512|Drugs, Drug Proprietaries, And Druggists' Sundries
-513|Apparel, Piece Goods, And Notions
-514|Groceries And Related Products
-515|Farm-product Raw Materials
-516|Chemicals And Allied Products
-517|Petroleum And Petroleum Products
-518|Beer, Wine, And Distilled Alcoholic Beverages
-519|Miscellaneous Non-durable Goods
-521|Lumber And Other Building Materials Dealers
-523|Paint, Glass And Wallpaper Stores
-525|Hardware Stores
-526|Retail Nurseries, Lawn And Garden Supply Stores
-527|Mobile Home Dealers
-531|Department Stores
-533|Variety Stores
-539|Miscellaneous General Merchandise Stores
-541|Grocery Stores
-542|Meat And Fish (seafood) Markets, Including
-543|Fruit And Vegetable Markets
-544|Candy, Nut, And Confectionery Stores
-545|Dairy Products Stores
-546|Retail Bakeries
-549|Miscellaneous Food Stores
-551|Motor Vehicle Dealers (new And Used)
-552|Motor Vehicle Dealers (used Only)
-553|Auto And Home Supply Stores
-554|Gasoline Service Stations
-555|Boat Dealers
-556|Recreational Vehicle Dealers
-557|Motorcycle Dealers
-559|Automotive Dealers, Not Elsewhere Classified
-561|Men's And Boys' Clothing And Accessory Stores
-562|Women's Clothing Stores
-563|Women's Accessory And Specialty Stores
-564|Children's And Infants' Wear Stores
-565|Family Clothing Stores
-566|Shoe Stores
-569|Miscellaneous Apparel And Accessory Stores
-571|Home Furniture And Furnishings Stores
-572|Household Appliance Stores
-573|Radio, Television, Consumer Electronics, And Music Stores
-581|Eating And Drinking Places
-591|Drug Stores And Proprietary Stores
-592|Liquor Stores
-593|Used Merchandise Stores
-594|Miscellaneous Shopping Goods Stores
-596|Nonstore Retailers
-598|Fuel Dealers
-599|Retail Stores, Not Elsewhere Classified
-601|Central Reserve Depository Institutions
-602|Commercial Banks
-603|Savings Institutions
-606|Credit Unions
-608|Foreign Banking And Branches And Agencies Of
-609|Functions Related To Depository Banking
-611|Federal And Federally-sponsored Credit Agencies
-614|Personal Credit Institutions
-615|Business Credit Institutions
-616|Mortgage Bankers And Brokers
-621|Security Brokers, Dealers, And Flotation
-622|Commodity Contracts Brokers And Dealers
-623|Security And Commodity Exchanges
-628|Services Allied With The Exchange Of Securities
-631|Life Insurance
-632|Accident And Health Insurance And Medical
-633|Fire, Marine, And Casualty Insurance
-635|Surety Insurance
-636|Title Insurance
-637|Pension, Health, And Welfare Funds
-639|Insurance Carriers, Not Elsewhere Classified
-641|Insurance Agents, Brokers, And Service
-651|Real Estate Operators (except Developers) And Lessors
-653|Real Estate Agents And Managers
-654|Title Abstract Offices
-655|Land Subdividers And Developers
-671|Holding Offices
-672|Investment Offices
-673|Trusts
-679|Miscellaneous Investing
-701|Hotels And Motels
-702|Rooming And Boarding Houses
-703|Camps And Recreational Vehicle Parks
-704|Organization Hotels And Lodging Houses, On
-721|Laundry, Cleaning, And Garment Services
-722|Photographic Studios, Portrait
-723|Beauty Shops
-724|Barber Shops
-725|Shoe Repair Shops And Shoeshine Parlors
-726|Funeral Service And Crematories
-729|Miscellaneous Personal Services
-731|Advertising
-732|Consumer Credit Reporting Agencies, Mercantile
-733|Mailing, Reproduction, Commercial Art And Photography, and Stenographic Services
-734|Services To Dwellings And Other Buildings
-735|Miscellaneous Equipment Rental And Leasing
-736|Personnel Supply Services
-737|Computer Programming, Data Processing, And Other Computer Related Services
-738|Miscellaneous Business Services
-751|Automotive Rental And Leasing, Without Drivers
-752|Automobile Parking
-753|Automotive Repair Shops
-754|Automotive Services, Except Repair
-762|Electrical Repair Shops
-763|Watch, Clock, And Jewelry Repair
-764|Reupholstery And Furniture Repair
-769|Miscellaneous Repair Shops And Related Services
-781|Motion Picture Production And Allied Services
-782|Motion Picture Distribution And Allied Services
-783|Motion Picture Theaters
-784|Video Tape Rental
-791|Dance Studios, Schools, And Halls
-792|Theatrical Producers (except Motion Picture),
-793|Bowling Centers
-794|Commercial Sports
-799|Miscellaneous Amusement And Recreation
-801|Offices And Clinics Of Doctors Of Medicine
-802|Offices And Clinics Of Dentists
-803|Offices And Clinics Of Doctors Of Osteopathy
-804|Offices And Clinics Of Other Health Practitioners
-805|Nursing And Personal Care Facilities
-806|Hospitals
-807|Medical And Dental Laboratories
-808|Home Health Care Services
-809|Miscellaneous Health And Allied Services, Not
-811|Legal Services
-821|Elementary And Secondary Schools
-822|Colleges, Universities, Professional Schools, And
-823|Libraries
-824|Vocational Schools
-829|Schools And Educational Services, Not Elsewhere
-832|Individual And Family Social Services
-833|Job Training And Vocational Rehabilitation
-835|Child Day Care Services
-836|Residential Care
-839|Social Services, Not Elsewhere Classified
-841|Museums And Art Galleries
-842|Arboreta And Botanical Or Zoological Gardens
-861|Business Associations
-862|Professional Membership Organizations
-863|Labor Unions And Similar Labor Organizations
-864|Civic, Social, And Fraternal Associations
-865|Political Organizations
-866|Religious Organizations
-869|Membership Organizations, Not Elsewhere
-871|Engineering, Architectural, And Surveying
-872|Accounting, Auditing, And Bookkeeping Services
-873|Research, Development, And Testing Services
-874|Management And Public Relations Services
-881|Private Households
-899|Miscellaneous Services
-911|Executive Offices
-912|Legislative Bodies
-913|Executive And Legislative Offices Combined
-919|General Government, Not Elsewhere Classified
-921|Courts
-922|Public Order And Safety
-931|Public Finance, Taxation, And Monetary Policy
-941|Administration Of Educational Programs
-943|Administration Of Public Health Programs
-944|Administration Of Social, Human Resource And
-945|Administration Of Veteran's Affairs, Except
-951|Administration Of Environmental Quality
-953|Administration Of Housing And Urban
-961|Administration Of General Economic Programs
-962|Regulation And Administration Of Transportation
-963|Regulation And Administration Of
-964|Regulation Of Agricultural Marketing And
-965|Regulation, Licensing, And Inspection Of
-966|Space Research And Technology
-971|National Security
-972|International Affairs
-999|Nonclassifiable Establishments
+Major Group|Industry Group|Description
+01|011|Cash Grains
+01|013|Field Crops, Except Cash Grains
+01|016|Vegetables And Melons
+01|017|Fruits And Tree Nuts
+01|018|Horticultural Specialties
+01|019|General Farms, Primarily Crop
+02|021|Livestock, Except Dairy And Poultry
+02|024|Dairy Farms
+02|025|Poultry And Eggs
+02|027|Animal Specialties
+02|029|General Farms, Primarily Livestock And Animal
+07|071|Soil Preparation Services
+07|072|Crop Services
+07|074|Veterinary Services
+07|075|Animal Services, Except Veterinary
+07|076|Farm Labor And Management Services
+07|078|Landscape And Horticultural Services
+08|081|Timber Tracts
+08|083|Forest Nurseries And Gathering Of Forest
+08|085|Forestry Services
+09|091|Commercial Fishing
+09|092|Fish Hatcheries And Preserves
+09|097|Hunting And Trapping, And Game Propagation
+10|101|Iron Ores
+10|102|Copper Ores
+10|103|Lead And Zinc Ores
+10|104|Gold And Silver Ores
+10|106|Ferroalloy Ores, Except Vanadium
+10|108|Metal Mining Services
+10|109|Miscellaneous Metal Ores
+12|122|Bituminous Coal And Lignite Mining
+12|123|Anthracite Mining
+12|124|Coal Mining Services
+13|131|Crude Petroleum And Natural Gas
+13|132|Natural Gas Liquids
+13|138|Oil And Gas Field Services
+14|141|Dimension Stone
+14|142|Crushed And Broken Stone, Including Riprap
+14|144|Sand And Gravel
+14|145|Clay, Ceramic, And Refractory Minerals
+14|147|Chemical And Fertilizer Mineral Mining
+14|148|Nonmetallic Minerals Services, Except Fuels
+14|149|Miscellaneous Nonmetallic Minerals, Except
+15|152|General Building Contractors-residential
+15|153|Operative Builders
+15|154|General Building Contractors-nonresidential
+16|161|Highway And Street Construction, Except
+16|162|Heavy Construction, Except Highway And Street
+17|171|Plumbing, Heating And Air-conditioning
+17|172|Painting And Paper Hanging
+17|173|Electrical Work
+17|174|Masonry, Stonework, Tile Setting, And Plastering
+17|175|Carpentry And Floor Work
+17|176|Roofing, Siding, And Sheet Metal Work
+17|177|Concrete Work
+17|178|Water Well Drilling
+17|179|Miscellaneous Special Trade Contractors
+20|201|Meat Products
+20|202|Dairy Products
+20|203|Canned, Frozen, And Preserved Fruits, Vegetables, and Food Specialties
+20|204|Grain Mill Products
+20|205|Bakery Products
+20|206|Sugar And Confectionery Products
+20|207|Fats And Oils
+20|208|Beverages
+20|209|Miscellaneous Food Preparations And Kindred
+21|211|Cigarettes
+21|212|Cigars
+21|213|Chewing And Smoking Tobacco And Snuff
+21|214|Tobacco Stemming And Redrying
+22|221|Broadwoven Fabric Mills, Cotton
+22|222|Broadwoven Fabric Mills, Manmade Fiber And Silk
+22|223|Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)
+22|224|Narrow Fabric And Other Smallwares Mills, Cotton, Wool, Silk, and Manmade Fiber
+22|225|Knitting Mills
+22|226|Dyeing And Finishing Textiles, Except Wool Fabrics
+22|227|Carpets And Rugs
+22|228|Yarn And Thread Mills
+22|229|Miscellaneous Textile Goods
+23|231|Men's And Boys' Suits, Coats, And Overcoats
+23|232|Men's And Boys' Furnishings, Work Clothing, And Allied Garments
+23|233|Women's, Misses', And Juniors' Outerwear
+23|234|Women's, Misses', Children's, And Infants'
+23|235|Hats, Caps, And Millinery
+23|236|Girls', Children's, And Infants' Outerwear
+23|237|Fur Goods
+23|238|Miscellaneous Apparel And Accessories
+23|239|Miscellaneous Fabricated Textile Products
+24|241|Logging
+24|242|Sawmills And Planing Mills
+24|243|Millwork, Veneer, Plywood, And Structural Wood
+24|244|Wood Containers
+24|245|Wood Buildings And Mobile Homes
+24|249|Miscellaneous Wood Products
+25|251|Household Furniture
+25|252|Office Furniture
+25|253|Public Building And Related Furniture
+25|254|Partitions, Shelving, Lockers, And Office And
+25|259|Miscellaneous Furniture And Fixtures
+26|261|Pulp Mills
+26|262|Paper Mills
+26|263|Paperboard Mills
+26|265|Paperboard Containers And Boxes
+26|267|Converted Paper And Paperboard Products, Except
+27|271|Newspaper
+27|272|Periodical
+27|273|Books
+27|274|Miscellaneous Publishing
+27|275|Commercial Printing
+27|276|Manifold Business Forms
+27|277|Greeting Cards
+27|278|Blankbooks, Looseleaf Binders, And Bookbinding
+27|279|Service Industries For The Printing Trade
+28|281|Industrial Inorganic Chemicals
+28|282|Plastics Materials And Synthetic Resins, Synthetic
+28|283|Drugs
+28|284|Soap, Detergents, And Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations
+28|285|Paints, Varnishes, Lacquers, Enamels, And Allied
+28|286|Industrial Organic Chemicals
+28|287|Agricultural Chemicals
+28|289|Miscellaneous Chemical Products
+29|291|Petroleum Refining
+29|295|Asphalt Paving And Roofing Materials
+29|299|Miscellaneous Products Of Petroleum And Coal
+30|301|Tires And Inner Tubes
+30|302|Rubber And Plastics Footwear
+30|305|Gaskets, Packing, And Sealing Devices And Rubber
+30|306|Fabricated Rubber Products, Not Elsewhere
+30|308|Miscellaneous Plastics Products
+31|311|Leather Tanning And Finishing
+31|313|Boot And Shoe Cut Stock And Findings
+31|314|Footwear, Except Rubber
+31|315|Leather Gloves And Mittens
+31|316|Luggage
+31|317|Handbags And Other Personal Leather Goods
+31|319|Leather Goods, Not Elsewhere Classified
+32|321|Flat Glass
+32|322|Glass And Glassware, Pressed Or Blown
+32|323|Glass Products, Made Of Purchased Glass
+32|324|Cement, Hydraulic
+32|325|Structural Clay Products
+32|326|Pottery And Related Products
+32|327|Concrete, Gypsum, And Plaster Products
+32|328|Cut Stone And Stone Products
+32|329|Abrasive, Asbestos, And Miscellaneous
+33|331|Steel Works, Blast Furnaces, And Rolling And Finishing Mills
+33|332|Iron And Steel Foundries
+33|333|Primary Smelting And Refining Of Nonferrous
+33|334|Secondary Smelting And Refining Of Nonferrous
+33|335|Rolling, Drawing, And Extruding Of Nonferrous
+33|336|Nonferrous Foundries (castings)
+33|339|Miscellaneous Primary Metal Products
+34|341|Metal Cans And Shipping Containers
+34|342|Cutlery, Handtools, And General Hardware
+34|343|Heating Equipment, Except Electric And Warm Air;
+34|344|Fabricated Structural Metal Products
+34|345|Screw Machine Products, And Bolts, Nuts, Screws, Rivets, And Washers
+34|346|Metal Forgings And Stampings
+34|347|Coating, Engraving, And Allied Services
+34|348|Ordnance And Accessories, Except Vehicles And Guided Missiles
+34|349|Miscellaneous Fabricated Metal Products
+35|351|Engines And Turbines
+35|352|Farm And Garden Machinery And Equipment
+35|353|Construction, Mining, And Materials Handling
+35|354|Metalworking Machinery And Equipment
+35|355|Special Industry Machinery, Except Metalworking
+35|356|General Industrial Machinery And Equipment
+35|357|Computer And Office Equipment
+35|358|Refrigeration And Service Industry Machinery
+35|359|Miscellaneous Industrial And Commercial
+36|361|Electric Transmission And Distribution Equipment
+36|362|Electrical Industrial Apparatus
+36|363|Household Appliances
+36|364|Electric Lighting And Wiring Equipment
+36|365|Household Audio And Video Equipment, And Audio
+36|366|Communications Equipment
+36|367|Electronic Components And Accessories
+36|369|Miscellaneous Electrical Machinery, Equipment, and Supplies
+37|371|Motor Vehicles And Motor Vehicle Equipment
+37|372|Aircraft And Parts
+37|373|Ship And Boat Building And Repairing
+37|374|Railroad Equipment
+37|375|Motorcycles, Bicycles, And Parts
+37|376|Guided Missiles And Space Vehicles And Parts
+37|379|Miscellaneous Transportation Equipment
+38|381|Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instruments, and Equipment
+38|382|Laboratory Apparatus And Analytical, Optical, Measuring, and Controlling Instruments
+38|384|Surgical, Medical, And Dental Instruments And Supplies
+38|385|Ophthalmic Goods
+38|386|Photographic Equipment And Supplies
+38|387|Watches, Clocks, Clockwork Operated Devices, and Parts
+39|391|Jewelry, Silverware, And Plated Ware
+39|393|Musical Instruments
+39|394|Dolls, Toys, Games And Sporting And Athletic
+39|395|Pens, Pencils, And Other Artists Materials
+39|396|Costume Jewelry, Costume Novelties, Buttons, And Miscellaneous Notions, Ecept Precious Metal
+39|399|Miscellaneous Manufacturing Industries
+40|401|Railroads
+41|411|Local And Suburban Passenger Transportation
+41|412|Taxicabs
+41|413|Intercity And Rural Bus Transportation
+41|414|Bus Charter Service
+41|415|School Buses
+41|417|Terminal And Service Facilities For Motor Vehicle
+42|421|Trucking And Courier Services, Except Air
+42|422|Public Warehousing And Storage
+42|423|Terminal And Joint Terminal Maintenance
+43|431|United States Postal Service
+44|441|Deep Sea Foreign Transportation Of Freight
+44|442|Deep Sea Domestic Transportation Of Freight
+44|443|Freight Transportation On The Great Lakes-st.
+44|444|Water Transportation Of Freight, Not Elsewhere
+44|448|Water Transportation Of Passengers
+44|449|Services Incidental To Water Transportation
+45|451|Air Transportation, Scheduled, And Air Courier
+45|452|Air Transportation, Nonscheduled
+45|458|Airports, Flying Fields, And Airport Terminal
+46|461|Pipelines, Except Natural Gas
+47|472|Arrangement Of Passenger Transportation
+47|473|Arrangement Of Transportation Of Freight And Cargo
+47|474|Rental Of Railroad Cars
+47|478|Miscellaneous Services Incidental To Transportation
+48|481|Telephone Communications
+48|482|Telegraph And Other Message Communications
+48|483|Radio And Television Broadcasting Stations
+48|484|Cable And Other Pay Television Services
+48|489|Communications Services, Not Elsewhere
+49|491|Electric Services
+49|492|Gas Production And Distribution
+49|493|Combination Electric And Gas, And Other Utility
+49|494|Water Supply
+49|495|Sanitary Services
+49|496|Steam And Air-conditioning Supply
+49|497|Irrigation Systems
+50|501|Motor Vehicles And Motor Vehicle Parts And Supplies
+50|502|Furniture And Home Furnishings
+50|503|Lumber And Other Construction Materials
+50|504|Professional And Commercial Equipment And Supplies
+50|505|Metals And Minerals, Except Petroleum
+50|506|Electrical Goods
+50|507|Hardware, And Plumbing And Heating Equipment
+50|508|Machinery, Equipment, And Supplies
+50|509|Miscellaneous Durable Goods
+51|511|Paper And Paper Products
+51|512|Drugs, Drug Proprietaries, And Druggists' Sundries
+51|513|Apparel, Piece Goods, And Notions
+51|514|Groceries And Related Products
+51|515|Farm-product Raw Materials
+51|516|Chemicals And Allied Products
+51|517|Petroleum And Petroleum Products
+51|518|Beer, Wine, And Distilled Alcoholic Beverages
+51|519|Miscellaneous Non-durable Goods
+52|521|Lumber And Other Building Materials Dealers
+52|523|Paint, Glass And Wallpaper Stores
+52|525|Hardware Stores
+52|526|Retail Nurseries, Lawn And Garden Supply Stores
+52|527|Mobile Home Dealers
+53|531|Department Stores
+53|533|Variety Stores
+53|539|Miscellaneous General Merchandise Stores
+54|541|Grocery Stores
+54|542|Meat And Fish (seafood) Markets, Including
+54|543|Fruit And Vegetable Markets
+54|544|Candy, Nut, And Confectionery Stores
+54|545|Dairy Products Stores
+54|546|Retail Bakeries
+54|549|Miscellaneous Food Stores
+55|551|Motor Vehicle Dealers (new And Used)
+55|552|Motor Vehicle Dealers (used Only)
+55|553|Auto And Home Supply Stores
+55|554|Gasoline Service Stations
+55|555|Boat Dealers
+55|556|Recreational Vehicle Dealers
+55|557|Motorcycle Dealers
+55|559|Automotive Dealers, Not Elsewhere Classified
+56|561|Men's And Boys' Clothing And Accessory Stores
+56|562|Women's Clothing Stores
+56|563|Women's Accessory And Specialty Stores
+56|564|Children's And Infants' Wear Stores
+56|565|Family Clothing Stores
+56|566|Shoe Stores
+56|569|Miscellaneous Apparel And Accessory Stores
+57|571|Home Furniture And Furnishings Stores
+57|572|Household Appliance Stores
+57|573|Radio, Television, Consumer Electronics, And Music Stores
+58|581|Eating And Drinking Places
+59|591|Drug Stores And Proprietary Stores
+59|592|Liquor Stores
+59|593|Used Merchandise Stores
+59|594|Miscellaneous Shopping Goods Stores
+59|596|Nonstore Retailers
+59|598|Fuel Dealers
+59|599|Retail Stores, Not Elsewhere Classified
+60|601|Central Reserve Depository Institutions
+60|602|Commercial Banks
+60|603|Savings Institutions
+60|606|Credit Unions
+60|608|Foreign Banking And Branches And Agencies Of
+60|609|Functions Related To Depository Banking
+61|611|Federal And Federally-sponsored Credit Agencies
+61|614|Personal Credit Institutions
+61|615|Business Credit Institutions
+61|616|Mortgage Bankers And Brokers
+62|621|Security Brokers, Dealers, And Flotation
+62|622|Commodity Contracts Brokers And Dealers
+62|623|Security And Commodity Exchanges
+62|628|Services Allied With The Exchange Of Securities
+63|631|Life Insurance
+63|632|Accident And Health Insurance And Medical
+63|633|Fire, Marine, And Casualty Insurance
+63|635|Surety Insurance
+63|636|Title Insurance
+63|637|Pension, Health, And Welfare Funds
+63|639|Insurance Carriers, Not Elsewhere Classified
+64|641|Insurance Agents, Brokers, And Service
+65|651|Real Estate Operators (except Developers) And Lessors
+65|653|Real Estate Agents And Managers
+65|654|Title Abstract Offices
+65|655|Land Subdividers And Developers
+67|671|Holding Offices
+67|672|Investment Offices
+67|673|Trusts
+67|679|Miscellaneous Investing
+70|701|Hotels And Motels
+70|702|Rooming And Boarding Houses
+70|703|Camps And Recreational Vehicle Parks
+70|704|Organization Hotels And Lodging Houses, On
+72|721|Laundry, Cleaning, And Garment Services
+72|722|Photographic Studios, Portrait
+72|723|Beauty Shops
+72|724|Barber Shops
+72|725|Shoe Repair Shops And Shoeshine Parlors
+72|726|Funeral Service And Crematories
+72|729|Miscellaneous Personal Services
+73|731|Advertising
+73|732|Consumer Credit Reporting Agencies, Mercantile
+73|733|Mailing, Reproduction, Commercial Art And Photography, and Stenographic Services
+73|734|Services To Dwellings And Other Buildings
+73|735|Miscellaneous Equipment Rental And Leasing
+73|736|Personnel Supply Services
+73|737|Computer Programming, Data Processing, And Other Computer Related Services
+73|738|Miscellaneous Business Services
+75|751|Automotive Rental And Leasing, Without Drivers
+75|752|Automobile Parking
+75|753|Automotive Repair Shops
+75|754|Automotive Services, Except Repair
+76|762|Electrical Repair Shops
+76|763|Watch, Clock, And Jewelry Repair
+76|764|Reupholstery And Furniture Repair
+76|769|Miscellaneous Repair Shops And Related Services
+78|781|Motion Picture Production And Allied Services
+78|782|Motion Picture Distribution And Allied Services
+78|783|Motion Picture Theaters
+78|784|Video Tape Rental
+79|791|Dance Studios, Schools, And Halls
+79|792|Theatrical Producers (except Motion Picture),
+79|793|Bowling Centers
+79|794|Commercial Sports
+79|799|Miscellaneous Amusement And Recreation
+80|801|Offices And Clinics Of Doctors Of Medicine
+80|802|Offices And Clinics Of Dentists
+80|803|Offices And Clinics Of Doctors Of Osteopathy
+80|804|Offices And Clinics Of Other Health Practitioners
+80|805|Nursing And Personal Care Facilities
+80|806|Hospitals
+80|807|Medical And Dental Laboratories
+80|808|Home Health Care Services
+80|809|Miscellaneous Health And Allied Services, Not
+81|811|Legal Services
+82|821|Elementary And Secondary Schools
+82|822|Colleges, Universities, Professional Schools, And
+82|823|Libraries
+82|824|Vocational Schools
+82|829|Schools And Educational Services, Not Elsewhere
+83|832|Individual And Family Social Services
+83|833|Job Training And Vocational Rehabilitation
+83|835|Child Day Care Services
+83|836|Residential Care
+83|839|Social Services, Not Elsewhere Classified
+84|841|Museums And Art Galleries
+84|842|Arboreta And Botanical Or Zoological Gardens
+86|861|Business Associations
+86|862|Professional Membership Organizations
+86|863|Labor Unions And Similar Labor Organizations
+86|864|Civic, Social, And Fraternal Associations
+86|865|Political Organizations
+86|866|Religious Organizations
+86|869|Membership Organizations, Not Elsewhere
+87|871|Engineering, Architectural, And Surveying
+87|872|Accounting, Auditing, And Bookkeeping Services
+87|873|Research, Development, And Testing Services
+87|874|Management And Public Relations Services
+88|881|Private Households
+89|899|Miscellaneous Services
+91|911|Executive Offices
+91|912|Legislative Bodies
+91|913|Executive And Legislative Offices Combined
+91|919|General Government, Not Elsewhere Classified
+92|921|Courts
+92|922|Public Order And Safety
+93|931|Public Finance, Taxation, And Monetary Policy
+94|941|Administration Of Educational Programs
+94|943|Administration Of Public Health Programs
+94|944|Administration Of Social, Human Resource And
+94|945|Administration Of Veteran's Affairs, Except
+95|951|Administration Of Environmental Quality
+95|953|Administration Of Housing And Urban
+96|961|Administration Of General Economic Programs
+96|962|Regulation And Administration Of Transportation
+96|963|Regulation And Administration Of
+96|964|Regulation Of Agricultural Marketing And
+96|965|Regulation, Licensing, And Inspection Of
+96|966|Space Research And Technology
+97|971|National Security
+97|972|International Affairs
+99|999|Nonclassifiable Establishments
+00|000|Unknown

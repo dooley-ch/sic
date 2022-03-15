@@ -10,6 +10,43 @@ In the 1930s, the government needed standardized and meaningful ways in which to
 
 SIC codes have a hierarchical, top-down structure that begins with general characteristics and narrows down to the specifics. The first two digits of the code represent the major industry sector to which a business belongs. The third and fourth digits describe the  sub-classification of the business group and specialization, respectively.  The fourth digit distinguishes the specific industry sector.
 
-### Data Source
+## Relationship
+
+```mermaid
+erDiagram
+    Division ||--o{ Group : Has
+    Division {
+        char code
+        str name
+    }
+    Group ||--o{ Industry : Has
+    Group {
+        int id
+        str name
+        char division_code
+    }
+    Industry ||--o{ SIC : Has
+    Industry {
+        int id
+        str name
+        int group_id
+        }
+    SIC {
+        int id
+        str name
+        int industry_id
+        }
+```
+
+## Files
+
+| File Name    | Description |
+|--------------|-------------|
+| division.txt |             |
+| group.txt    |             |
+| industry.txt |             |
+| sic.txt      |             |
+
+## Data Source
 
 The data for this application was parsed from the Department Of Labor website:[http://www.osha.gov/pls/imis/sic_manual.html](http://www.osha.gov/pls/imis/sic_manual.html)

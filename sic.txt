@@ -1,62 +1,62 @@
 Industry Group|SIC|Description
-11|111|Wheat
-11|112|Rice
-11|115|Corn
-11|116|Soybeans
-11|119|Cash Grains, Not Elsewhere Classified
-13|131|Cotton
-13|132|Tobacco
-13|133|Sugarcane and Sugar Beets
-13|134|Irish Potatoes
-13|139|Field Crops, Except Cash Grains, Not Elsewhere Classified
-16|161|Vegetables and Melons
-17|171|Berry Crops
-17|172|Grapes
-17|173|Tree Nuts
-17|174|Citrus Fruits
-17|175|Deciduous Tree Fruits
-17|179|Fruits and Tree Nuts, Not Elsewhere Classified
-18|181|Ornamental Floriculture and Nursery Products
-18|182|Food Crops Grown Under Cover
-19|191|General Farms, Primarily Crop
-21|211|Beef Cattle Feedlots
-21|212|Beef Cattle, Except Feedlots
-21|213|Hogs
-21|214|Sheep and Goats
-21|219|General Livestock, Except Dairy and Poultry
-24|241|Dairy Farms
-25|251|Broiler, Fryer, and Roaster Chickens
-25|252|Chicken Eggs
-25|253|Turkeys and Turkey Eggs
-25|254|Poultry Hatcheries
-25|259|Poultry and Eggs, Not Elsewhere Classified
-27|271|Fur-Bearing Animals and Rabbits
-27|272|Horses and Other Equines
-27|273|Animal Aquaculture
-27|279|Animal Specialties, Not Elsewhere Classified
-29|291|General Farms, Primarily Livestock and Animal Specialties
-71|711|Soil Preparation Services
-72|721|Crop Planting, Cultivating, and Protecting
-72|722|Crop Harvesting, Primarily by Machine
-72|723|Crop Preparation Services for Market, Except Cotton Ginning
-72|724|Cotton Ginning
-74|741|Veterinary Services for Livestock
-74|742|Veterinary Services for Animal Specialties
-75|751|Livestock Services, Except Veterinary
-75|752|Animal Specialty Services, Except Veterinary
-76|761|Farm Labor Contractors and Crew Leaders
-76|762|Farm Management Services
-78|781|Landscape Counseling and Planning
-78|782|Lawn and Garden Services
-78|783|Ornamental Shrub and Tree Services
-81|811|Timber Tracts
-83|831|Forest Nurseries and Gathering of Forest Products
-85|851|Forestry Services
-91|912|Finfish
-91|913|Shellfish
-91|919|Miscellaneous Marine Products
-92|921|Fish Hatcheries and Preserves
-97|971|Hunting and Trapping, and Game Propagation
+011|0111|Wheat
+011|0112|Rice
+012|0115|Corn
+013|0116|Soybeans
+014|0119|Cash Grains, Not Elsewhere Classified
+015|0131|Cotton
+016|0132|Tobacco
+017|0133|Sugarcane and Sugar Beets
+018|0134|Irish Potatoes
+019|0139|Field Crops, Except Cash Grains, Not Elsewhere Classified
+020|0161|Vegetables and Melons
+021|0171|Berry Crops
+022|0172|Grapes
+023|0173|Tree Nuts
+024|0174|Citrus Fruits
+025|0175|Deciduous Tree Fruits
+026|0179|Fruits and Tree Nuts, Not Elsewhere Classified
+027|0181|Ornamental Floriculture and Nursery Products
+028|0182|Food Crops Grown Under Cover
+029|0191|General Farms, Primarily Crop
+030|0211|Beef Cattle Feedlots
+031|0212|Beef Cattle, Except Feedlots
+032|0213|Hogs
+033|0214|Sheep and Goats
+034|0219|General Livestock, Except Dairy and Poultry
+035|0241|Dairy Farms
+036|0251|Broiler, Fryer, and Roaster Chickens
+037|0252|Chicken Eggs
+038|0253|Turkeys and Turkey Eggs
+039|0254|Poultry Hatcheries
+040|0259|Poultry and Eggs, Not Elsewhere Classified
+041|0271|Fur-Bearing Animals and Rabbits
+042|0272|Horses and Other Equines
+043|0273|Animal Aquaculture
+044|0279|Animal Specialties, Not Elsewhere Classified
+045|0291|General Farms, Primarily Livestock and Animal Specialties
+046|0711|Soil Preparation Services
+047|0721|Crop Planting, Cultivating, and Protecting
+048|0722|Crop Harvesting, Primarily by Machine
+049|0723|Crop Preparation Services for Market, Except Cotton Ginning
+050|0724|Cotton Ginning
+051|0741|Veterinary Services for Livestock
+052|0742|Veterinary Services for Animal Specialties
+053|0751|Livestock Services, Except Veterinary
+054|0752|Animal Specialty Services, Except Veterinary
+055|0761|Farm Labor Contractors and Crew Leaders
+056|0762|Farm Management Services
+057|0781|Landscape Counseling and Planning
+058|0782|Lawn and Garden Services
+059|0783|Ornamental Shrub and Tree Services
+060|0811|Timber Tracts
+061|0831|Forest Nurseries and Gathering of Forest Products
+062|0851|Forestry Services
+063|0912|Finfish
+064|0913|Shellfish
+065|0919|Miscellaneous Marine Products
+066|0921|Fish Hatcheries and Preserves
+067|0971|Hunting and Trapping, and Game Propagation
 101|1011|Iron Ores
 102|1021|Copper Ores
 103|1031|Lead and Zinc Ores
@@ -1005,3 +1005,4 @@ Industry Group|SIC|Description
 972|9721|International Affairs
 999|9999|Nonclassifiable Establishments
 287|2837|Pharmaceuticals: Generic
+000|0000|Unknown
